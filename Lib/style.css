@@ -326,6 +326,17 @@ th, td {
     justify-content: space-around;
 }
 
+.pro{
+    width: 100%;
+    height: auto;
+    background: lawngreen;
+    justify-content: space-around;
+}
+
+
+
+
+
 .box{
     width: 200px;
     height: 300px;
